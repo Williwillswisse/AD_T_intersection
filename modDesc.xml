@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="93">
+    <author>Willi Willswissen</author>
+	<contributors>AutoDrive Team</contributors>
+    <version>1.0.0.0</version>
+    <title> 
+        <en>AutoDrive-T-intersection</en>
+        <de>AutoDrive-T-Einmündung</de>
+    </title>
+    <description>
+        <en> <![CDATA[
+
+Layout for AD T-intersection.
+Changelog:
+
+V1.0.0.0
+
+]]>
+        </en>
+        <de> <![CDATA[
+
+Layout für eine AD T-Einmündung.
+Changelog:
+
+V1.0.0.0
+
+]]>
+        </de>
+    </description>
+    
+    <l10n>
+        <text name="storeItem_tcrossing-3m-line"> <en>AD-T-intersection 3m with lines</en> <de>AD-T-Einmündung 3m mit Hilfslinien</de> </text>
+        <text name="storeItem_tcrossing-4m-line"> <en>AD-T-intersection 4m with lines</en> <de>AD-T-Einmündung 4m mit Hilfslinien</de> </text>
+        <text name="storeItem_tcrossing-5m-line"> <en>AD-T-intersection 5m with lines</en> <de>AD-T-Einmündung 5m mit Hilfslinien</de> </text>
+        <text name="storeItem_tcrossing-6m-line"> <en>AD-T-intersection 6m with lines</en> <de>AD-T-Einmündung 6m mit Hilfslinien</de> </text>
+    </l10n>
+
+    <multiplayer supported="true"/>
+    <iconFilename>icon_AutoDrive_TCrossing.png</iconFilename>
+
+    <storeItems>
+		<storeItem xmlFilename="tcrossing-3m-line.xml"/>
+		<storeItem xmlFilename="tcrossing-4m-line.xml"/>
+		<storeItem xmlFilename="tcrossing-5m-line.xml"/>
+		<storeItem xmlFilename="tcrossing-6m-line.xml"/>
+    </storeItems>
+</modDesc>

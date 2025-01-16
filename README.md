@@ -10,7 +10,7 @@ Version (only zip-File) for left-hand traffic (RHD)
 
 Direct Download: https://github.com/Williwillswisse/AD_T_intersection/releases/latest/download/FS25_AutoDrive_T_intersection_RHD.zip
 
-## Tutorial Video (German):
+## Tutorial Video (German) from xCrossing:
 https://youtu.be/fyLikv3C4Mw
 
 ## Discord Server:

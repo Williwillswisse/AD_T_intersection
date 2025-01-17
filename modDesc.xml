@@ -2,7 +2,7 @@
 <modDesc descVersion="93">
     <author>Willi Willswissen</author>
 	<contributors>AutoDrive Team</contributors>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title> 
         <en>AutoDrive-T-intersection</en>
         <de>AutoDrive-T-Einmündung</de>
@@ -13,7 +13,8 @@
 Layout for AD T-intersection.
 Changelog:
 
-V1.0.0.0
+V1.0.0.1
+-fixed typo
 
 ]]>
         </en>
@@ -22,7 +23,8 @@ V1.0.0.0
 Layout für eine AD T-Einmündung.
 Changelog:
 
-V1.0.0.0
+V1.0.0.1
+-Tippfehler beseitigt
 
 ]]>
         </de>

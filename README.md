@@ -1,7 +1,7 @@
 # FS25_AutoDrive_T_intersection
 FS25 version of the FS25_AutoDrive_T_intersection mod
 
-### Latest Release: 1.0.0.0
+### Latest Release: 1.0.0.1
 ![GitHub all releases](https://img.shields.io/github/downloads/Williwillswisse/AD_T_intersection/total?label=Downloads&style=plastic)
 
 Direct Download: https://github.com/Williwillswisse/AD_T_intersection/releases/latest/download/FS25_AutoDrive_T_intersection.zip
